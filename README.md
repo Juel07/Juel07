@@ -1,4 +1,7 @@
-Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Manchester Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I'm currently enjoying<a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
+<img src= "github-banner-BW.png"></img>
+<br>
+<br>
+Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Manchester Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
 
 ### ⚡ Relevant achievements
 - Awarded 1st place on Code First Girl's Web Dev course
@@ -9,7 +12,7 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 - JavaScript
 - ReactJS
 
-### 🔭 I'm working on
+### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
 Although, I think I'll wait to learn React before I build the website.
 
@@ -23,7 +26,7 @@ Although, I think I'll wait to learn React before I build the website.
 - I blog. About food. Recipes and stuff. 
 - I will speak German fluently in 5 months or so.
 
-### 👩‍💻 Get in touch
+### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
 - Twitter: <a href = "https://twitter.com/j_brgnz">j_brgnz</a>
 - Website: coming soon
