@@ -14,7 +14,6 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
 
 ### 💡 Goals for 2020
 - Complete #100DaysOfCode challenge
