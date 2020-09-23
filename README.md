@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 - Complete #100DaysOfCode challenge
 - Build 30+ projects 
 - Become skilled in JavaScript
-- Complete coding bootcamp before December 2020
+- Complete full-stack course before December 2020
 
 ### 🌴 Fun facts
 - I blog. About food. Recipes and stuff. 
