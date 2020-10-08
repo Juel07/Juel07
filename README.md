@@ -28,5 +28,5 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
 - Twitter: <a href = "https://twitter.com/j_brgnz">j_brgnz</a>
-- Website: coming 
+- Website: <a href = "https://www.juelbraganza.io">juelbraganza.io</a> 
 - Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
