@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 
 ### ✔️ I'm currently learning
 - JavaScript
-- ReactJS
+- Python
 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
