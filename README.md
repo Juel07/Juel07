@@ -6,18 +6,22 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 ### ⚡ Relevant achievements
 - Awarded 1st place on Code First Girl's Web Dev course
 - Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
-- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
+- Awarded a 100% scholarship by Manchester Codes for demonstrating passion for tech
+- Elected Student Voice Leader by peers for 3 consecutive years at University.
+
+### 👩‍💻 Projects I've built
+- <a href = "https://github.com/Juel07/list-of-my-projects">List of my projects</a>
 
 ### ✔️ I'm currently learning
 - JavaScript
 - Python
 
-### 👩‍💻 I'm working on
-- Building projects and my portfolio website. 
+### ✨ Goals for 2021
+- Complete #100DaysOfCode challenge
+- Build 30+ projects
 
 ### 💡 Goals for 2020
 - Complete #100DaysOfCode challenge ✔️
-- Build 30+ projects 
 - Complete 100 JavaScript coding challenges ✔️
 
 ### 🌴 Fun facts
