@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 - Python
 
 ### ✨ Goals for 2021
-- Complete #100DaysOfCode challenge
+- Complete round 2 of #100DaysOfCode challenge
 - Build 30+ projects
 
 ### 💡 Goals for 2020
@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 
 ### 🌴 Fun facts
 - I blog. About food. Recipes and stuff. 
-- I will speak German fluently in 5 months or so.
+- I will speak German fluently by 2022.
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
