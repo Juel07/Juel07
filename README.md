@@ -1,7 +1,7 @@
 <img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
 <br>
 <br>
-Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I've recently completed  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and enjoyed <a href="https://edabit.com/challenges">Edabit</a> challenges.
+Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I've recently completed  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and enjoyed <a href="https://edabit.com/challenges">Edabit</a> coding challenges.
 
 ### ⚡ Relevant achievements
 - Awarded 1st place on Code First Girl's Web Dev course
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 
 ### ✔️ I'm currently learning
 - JavaScript
-- Python
+- Ruby
 
 ### ✨ Goals for 2021
 - Complete round 2 of #100DaysOfCode challenge
