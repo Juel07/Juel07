@@ -1,7 +1,7 @@
-<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
+<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner.png"></img>
 <br>
 <br>
-Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I've recently completed  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and enjoyed <a href="https://edabit.com/challenges">Edabit</a> coding challenges.
+Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz" target="_blank">j_brgnz</a> where I'm currently doing round 2 of <a href="https://twitter.com/j_brgnz/status/1352300517402300417?s=20" target="_blank">#100DaysOfCode</a> and enjoying <a href="https://www.codewars.com/" target="_blank">Codewars</a> coding challenges.
 
 ### ⚡ Relevant achievements
 - Awarded 1st place on Code First Girl's Web Dev course
