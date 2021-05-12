@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 - <a href = "https://github.com/Juel07/list-of-my-projects">List of my projects</a>
 
 ### ✔️ I'm currently learning
-- JavaScript
+- React
 - Ruby
 
 ### ✨ Goals for 2021
